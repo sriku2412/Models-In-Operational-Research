@@ -1,6 +1,6 @@
 # OMIS 6000 - Operations Research Winter Term
 
-**GitHub Repository:** [Models in Operations Research- Winter Term] (https://github.com/sriku2412/Models-In-Operational-Research)
+**GitHub Repository:** [Models in Operations Research- Winter Term](https://github.com/sriku2412/Models-In-Operational-Research)
 
 **Instructor:** Adam Diamant
 
